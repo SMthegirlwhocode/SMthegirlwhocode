@@ -2,7 +2,7 @@
 👀 I’m interested in pushing tech boundaries.
 🌱 Currently mastering ML/AI.
 💞️ I’m looking to collaborate on groundbreaking projects.
-📫 Reach me at sharmisthamaity381@gmail.com or LinkedIn: Sharmistha Maity.
+📫 Reach me at sharmisthamaity775@gmail.com or LinkedIn: Sharmistha Maity.
 😄 Pronouns: She/Her.
 ⚡ Fun fact: Dream-debugging coder!
 
