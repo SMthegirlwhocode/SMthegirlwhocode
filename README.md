@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharmistha Maity</h1>
 <h3 align="center">Crafting Code: A Passionate SDE from Odisha, India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/codelikeagirl-clg-code-like-a-girl-6EWyszhJ2kL3ceQuD2">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VsbGoyN2hoNzZ3cHdmNHd6MWEzNTd6YnY5azN0ZGVwdmV6Z2p2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EWyszhJ2kL3ceQuD2/giphy.gif" alt="Cool GIF">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smthegirlwhocode&label=Profile%20views&color=0e75b6&style=flat" alt="smthegirlwhocode" /> </p>
 
